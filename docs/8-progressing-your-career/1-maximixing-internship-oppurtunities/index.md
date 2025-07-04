@@ -51,4 +51,4 @@ If you decide you do want to work at a bigger company, it's harder to climb the 
 
 As an intern, you can climb a prestige rung every 4 months.
 
-As a full-time employee, you can only climb a prestige rung every year, and even then it looks bad if you're spending such a short time at a company. It's also significantly more effort to land a full-time job, they require more interviews, and are significantly more rigorous in their hiring process to unsure their candidates are a good fit for the company.
+As a full-time employee, you can only climb a prestige rung every year, and even then it looks bad if you're spending such a short time at a company. It's also significantly more effort to land a full-time job, they require more interviews, and are significantly more rigorous in their hiring process to insure their candidates are a good fit for the company.
